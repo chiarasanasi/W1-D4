@@ -4,6 +4,9 @@ body {
     background-image: url(../img/sfondo.png) ;
     background-position-x: 100px;
     background-position-y: 200px;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* HEADER */
 header {
@@ -150,9 +153,10 @@ section h2{
     padding: 1em;
 }
 
-section p {
-    padding: 1em;
+main section p {
+    
     text-align: left;
+    padding: 1em;
 }
 
 form {
